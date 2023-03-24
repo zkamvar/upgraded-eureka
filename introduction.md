@@ -17,6 +17,13 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+
+```r
+library("reprex")
+```
+
+
 ## Introduction
 
 This is a lesson created via The Carpentries Workbench. It is written in
